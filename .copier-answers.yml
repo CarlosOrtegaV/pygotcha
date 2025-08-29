@@ -1,0 +1,12 @@
+_commit: v1.5.1
+_src_path: gh:superlinear-ai/substrate
+author_email: ortegav_ce@hotmail.com
+author_name: Carlos Ortega Vazquez
+project_description: A Python package with ML methods on imperfect supervised learning
+project_name: pygotcha
+project_type: package
+project_url: https://github.com/CarlosOrtegaV/pygotcha
+python_version: '3.11'
+typing: strict
+with_conventional_commits: true
+with_typer_cli: true
